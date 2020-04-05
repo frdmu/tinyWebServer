@@ -6,7 +6,7 @@
 
 <br>
 <h2>Access the server<h2>
-<h3>open your browser and fill in: local:port/<h3>
+<h3>open your browser and fill in: localhost:port/   |-------------------------for example:127.0.0.1:1234/<h3>
 
 
 <br>
